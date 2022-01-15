@@ -5,7 +5,7 @@
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=JordanMarcelino&show_icons=true&theme=dracula"/>
 
-<br/><br/><br/>
+<br /><br /><br />
 
 <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanMarcelino&layout=compact&langs_count=8"/>
 
