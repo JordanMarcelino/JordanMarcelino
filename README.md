@@ -3,15 +3,19 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Golang](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 ### Technologies
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![GoFiber](https://img.shields.io/badge/-GoFiber-000?&logo=Go)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanMarcelino)
