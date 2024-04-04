@@ -1,4 +1,6 @@
-
+Hi, I'm Jordan👋
+- 🤖 I'm a Machine Learning Engineer and Backend Engineer
+- 😁 I like to learn new thing
 
 ### Languages
 
@@ -13,10 +15,16 @@
 
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Sklearn](https://img.shields.io/badge/-Sklearn-000?&logo=scikitlearn)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![GoFiber](https://img.shields.io/badge/-GoFiber-000?&logo=Go)
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-000?&logo=PyTorch)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-000?&logo=TensorFlow)
+![Spacy](https://img.shields.io/badge/-Spacy-000?&logo=Spacy)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanMarcelino)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-marcelino-0b3b8621b/)
