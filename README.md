@@ -4,30 +4,46 @@ Hi, I'm Jordan👋
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=Go)
-![Javascript](https://img.shields.io/badge/-Javascript-000?&logo=Javascript)
-![TypeScript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+  <img alt="Golang" src="https://img.shields.io/badge/Golang-03c2fc.svg?logo=go&logoColor=white">
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+</p>
 
 ### Frameworks
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Sklearn](https://img.shields.io/badge/-Sklearn-000?&logo=scikitlearn)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Gin](https://img.shields.io/badge/-Gin-000?&logo=Gin)
-![React JS](https://img.shields.io/badge/-React%20JS-000?&logo=React)
-![Next JS](https://img.shields.io/badge/-Next%20JS-000?&logo=Next.js)
+<p>
+  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-orange.svg?logo=tensorflow&logoColor=white">
+  <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red.svg?logo=pytorch&logoColor=white">
+  <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-orange.svg?logo=scikitlearn&logoColor=white">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff.svg?logo=fastapi&logoColor=02b3aa">
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-black.svg?logo=flask&logoColor=white">
+  <img alt="Gin" src="https://img.shields.io/badge/Gin-black.svg?logo=gin">
+  <img alt="React JS" src="https://img.shields.io/badge/React%20JS-black.svg?logo=react">
+  <img alt="Next JS" src="https://img.shields.io/badge/Next%20JS-black.svg?logo=next.js&logoColor=white">
+</p>
+
+### Databases
+
+<p>
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-00f.svg?logo=mariadb&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-white.svg?logo=mysql&logoColor=black">
+  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+</p>
 
 ### Miscellaneous
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+  <img alt="Docker" src ="https://img.shields.io/badge/Docker-0275b3.svg?logo=docker&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
+  <img alt="Linux" src ="https://img.shields.io/badge/Linux-white.svg?logo=linux&logoColor=black">
+  <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-orange.svg?logo=ubuntu&logoColor=white">
+</p>
 
 ### Social Media
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanMarcelino)
