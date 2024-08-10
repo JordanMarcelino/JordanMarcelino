@@ -1,5 +1,5 @@
 Hi, I'm Jordan👋
-- 🤖 I'm a Machine Learning Engineer and Backend Engineer
+- 🤖 I'm a Software Engineer and Machine Learning Engineer
 - 😁 I like to learn new thing
 
 ### Languages
@@ -9,7 +9,7 @@ Hi, I'm Jordan👋
   <img alt="Golang" src="https://img.shields.io/badge/Golang-03c2fc.svg?logo=go&logoColor=white">
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=oracle&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
 </p>
 
@@ -20,10 +20,9 @@ Hi, I'm Jordan👋
   <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red.svg?logo=pytorch&logoColor=white">
   <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-orange.svg?logo=scikitlearn&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff.svg?logo=fastapi&logoColor=02b3aa">
+  <img alt="Gin" src="https://img.shields.io/badge/Gin-blue.svg?logo=gin&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-black.svg?logo=flask&logoColor=white">
-  <img alt="Gin" src="https://img.shields.io/badge/Gin-black.svg?logo=gin">
-  <img alt="React JS" src="https://img.shields.io/badge/React%20JS-black.svg?logo=react">
-  <img alt="Next JS" src="https://img.shields.io/badge/Next%20JS-black.svg?logo=next.js&logoColor=white">
+  <img alt="React JS" src="https://img.shields.io/badge/React%20JS-blue.svg?logo=react">
 </p>
 
 ### Databases
