@@ -32,6 +32,8 @@ Hi, I'm Jordan👋
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-white.svg?logo=mysql&logoColor=black">
   <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+  <img alt="Redis" src ="https://img.shields.io/badge/Redis-ffffff.svg?logo=redis&logoColor=red">
+  <img alt="Elastic Search" src ="https://img.shields.io/badge/Elastic%20Search-ffffff.svg?logo=elasticsearch&logoColor=yellow">
 </p>
 
 ### Miscellaneous
