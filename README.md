@@ -1,50 +1,31 @@
-Hi, I'm Jordan👋
+# Hi, I'm Jordan👋
 - 🤖 I'm a Software Engineer and Machine Learning Engineer
 - 😁 I like to learn new thing
 
 ### Languages
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
-  <img alt="Golang" src="https://img.shields.io/badge/Golang-03c2fc.svg?logo=go&logoColor=white">
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=oracle&logoColor=white">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-</p>
+![Programming Languages](https://skillicons.dev/icons?i=go,python,java,kotlin,javascript,typescript,html,css)
 
 ### Frameworks
 
-<p>
-  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-orange.svg?logo=tensorflow&logoColor=white">
-  <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-red.svg?logo=pytorch&logoColor=white">
-  <img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-orange.svg?logo=scikitlearn&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff.svg?logo=fastapi&logoColor=02b3aa">
-  <img alt="Gin" src="https://img.shields.io/badge/Gin-blue.svg?logo=gin&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-black.svg?logo=flask&logoColor=white">
-  <img alt="React JS" src="https://img.shields.io/badge/React%20JS-blue.svg?logo=react">
-</p>
+![Frontend](https://skillicons.dev/icons?i=bootstrap,sass,react,tailwind,mui,next)
+
+![Backend](https://skillicons.dev/icons?i=nest,fastapi,flask,django)
+
+![Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch)
 
 ### Databases
 
-<p>
-  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-00f.svg?logo=mariadb&logoColor=white">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-white.svg?logo=mysql&logoColor=black">
-  <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-  <img alt="Redis" src ="https://img.shields.io/badge/Redis-ffffff.svg?logo=redis&logoColor=red">
-  <img alt="Elastic Search" src ="https://img.shields.io/badge/Elastic%20Search-ffffff.svg?logo=elasticsearch&logoColor=yellow">
-</p>
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,redis,elasticsearch,kafka,rabbitmq)
 
 ### Miscellaneous
 
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-0275b3.svg?logo=docker&logoColor=white">
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
-  <img alt="Linux" src ="https://img.shields.io/badge/Linux-white.svg?logo=linux&logoColor=black">
-  <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-orange.svg?logo=ubuntu&logoColor=white">
-</p>
+![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,vite)
+
+![OS](https://skillicons.dev/icons?i=git,linux,debian,ubuntu)
+
+![Cloud](https://skillicons.dev/icons?i=firebase,gcp,aws)
+
+![Tools](https://skillicons.dev/icons?i=notion,postman,discord,vscode,idea,github,gitlab,obsidian)
 
 ### Social Media
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanMarcelino)
