@@ -9,7 +9,7 @@
 
 ![Frontend](https://skillicons.dev/icons?i=bootstrap,sass,react,tailwind,mui,next)
 
-![Backend](https://skillicons.dev/icons?i=nest,fastapi,flask,django)
+![Backend](https://skillicons.dev/icons?i=spring,nest,fastapi,flask,django)
 
 ![Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch)
 
@@ -19,7 +19,7 @@
 
 ### Miscellaneous
 
-![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,vite)
+![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,vite,maven,gradle)
 
 ![OS](https://skillicons.dev/icons?i=git,linux,debian,ubuntu)
 
