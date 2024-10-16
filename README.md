@@ -1,31 +1,13 @@
 # Hi, I'm Jordan👋
-- 🤖 I'm a Software Engineer and Machine Learning Engineer
+- 🤖 I'm a Software Engineer
 - 😁 I like to learn new thing
 
 ### Languages
 ![Programming Languages](https://skillicons.dev/icons?i=go,python,java,kotlin,javascript,typescript,html,css)
 
-### Frameworks
-
-![Frontend](https://skillicons.dev/icons?i=bootstrap,sass,react,tailwind,mui,next)
-
-![Backend](https://skillicons.dev/icons?i=spring,nest,fastapi,flask,django)
-
-![Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch)
-
 ### Databases
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,redis,elasticsearch,kafka,rabbitmq)
-
-### Miscellaneous
-
-![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,grafana,prometheus,vite,maven,gradle)
-
-![OS](https://skillicons.dev/icons?i=git,linux,debian,ubuntu)
-
-![Cloud](https://skillicons.dev/icons?i=firebase,gcp,aws)
-
-![Tools](https://skillicons.dev/icons?i=notion,postman,discord,vscode,idea,github,gitlab,obsidian)
 
 ### Social Media
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanMarcelino)
