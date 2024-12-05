@@ -28,8 +28,6 @@
 
 ![Github Commit](https://github-readme-stats.vercel.app/api?username=jordanmarcelino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=jordanmarcelino&theme=tokyonight&hide_border=false)
-
 ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanmarcelino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
