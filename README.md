@@ -1,19 +1,45 @@
-# Hi, I'm Jordan👋
-- 🤖 I'm a Software Engineer
-- 😁 I like to learn new thing
+# Hi, I'm Jordan 👋
 
-### Languages
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RoM3RsMHNvcGl2bDQ5cmJhaHZ2bmQybHJidWs0NzVvODhwYzZuMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RKp3DW2ZwDlVS/giphy.gif"  />
+
+🤖 I'm a Software Engineer
+
+😁 I like to learn new thing
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=jordanmarcelino&icon=5&color=6)](https://visitcount.itsvg.in)
+
+## 💬 Languages
+
 ![Programming Languages](https://skillicons.dev/icons?i=go,python,java,kotlin,javascript,typescript,html,css)
 
-### Databases
+## 🛢️ Databases
 
 ![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongo,redis,elasticsearch,kafka,rabbitmq)
 
-### Social Media
+## 📸 Social Media
+
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JordanMarcelino)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-marcelino)
 [![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/jordanbro)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/Jordannn)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jordannn/)
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=JordanMarcelino&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanMarcelino&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+## 📊 GitHub Stats
+
+![Github Commit](https://github-readme-stats.vercel.app/api?username=jordanmarcelino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=jordanmarcelino&theme=tokyonight&hide_border=false)
+
+![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanmarcelino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=jordanmarcelino&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jordanmarcelino/jordanmarcelino/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jordanmarcelino/jordanmarcelino/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jordanmarcelino/jordanmarcelino/output/github-snake.svg" />
+</picture>
