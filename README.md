@@ -1,12 +1,8 @@
 # Hi, I'm Jordan 👋
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RoM3RsMHNvcGl2bDQ5cmJhaHZ2bmQybHJidWs0NzVvODhwYzZuMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RKp3DW2ZwDlVS/giphy.gif"  />
-
 🤖 I'm a Software Engineer
 
 😁 I like to learn new thing
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=jordanmarcelino&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ## 💬 Languages
 
@@ -29,10 +25,6 @@
 ![Github Commit](https://github-readme-stats.vercel.app/api?username=jordanmarcelino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Github Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanmarcelino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=jordanmarcelino&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
