@@ -1,8 +1,6 @@
 # Hi, I'm Jordan 👋
 
-🤖 I'm a Software Engineer
-
-😁 I like to learn new thing
+Software Engineer with experience building reliable, scalable, and high-performance microservices. Passionate about continuous learning, embracing challenges, and driving professional growth.
 
 ## 💬 Languages
 
